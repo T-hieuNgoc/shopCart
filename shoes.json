@@ -1,0 +1,251 @@
+[
+    {
+        "name":"nike01",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/1.jpg"
+    },
+    {
+        "name":"nike02",
+        "category": "sport",
+        "price":"158.99",
+        "imgSrc":"./img/2.jpg"
+    },
+    {
+        "name":"nike03",
+        "category": "sport",
+        "price":"148.99",
+        "imgSrc":"./img/47.jpg"
+    },
+    {
+        "name":"nike04",
+        "category": "sport",
+        "price":"188.99",
+        "imgSrc":"./img/33.jpg"
+    },
+    {
+        "name":"nike05",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/5.jpg"
+    },
+    {
+        "name":"nike06",
+        "category": "sport",
+        "price":"158.99",
+        "imgSrc":"./img/6.jpg"
+    },
+    {
+        "name":"nike07",
+        "category": "sport",
+        "price":"148.99",
+        "imgSrc":"./img/7.jpg"
+    },
+    {
+        "name":"nike08",
+        "category": "sport",
+        "price":"158.99",
+        "imgSrc":"./img/8.jpg"
+    },
+    {
+        "name":"nike09",
+        "category": "sport",
+        "price":"158.99",
+        "imgSrc":"./img/9.jpg"
+    },
+    {
+        "name":"nike010",
+        "category": "sport",
+        "price":"158.99",
+        "imgSrc":"./img/10.jpg"
+    },
+    {
+        "name":"nike011",
+        "category": "sport",
+        "price":"148.99",
+        "imgSrc":"./img/11.jpg"
+    },
+    {
+        "name":"nike012",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/12.jpg"
+    },
+    {
+        "name":"nike013",
+        "category": "sport",
+        "price":"168.99",
+        "imgSrc":"./img/13.jpg"
+    },
+    {
+        "name":"nike014",
+        "category": "sneaker",
+        "price":"158.99",
+        "imgSrc":"./img/14.jpg"
+    },
+    {
+        "name":"nike015",
+        "category": "sport",
+        "price":"158.99",
+        "imgSrc":"./img/15.jpg"
+    },
+    {
+        "name":"nike016",
+        "category": "sport",
+        "price":"168.99",
+        "imgSrc":"./img/16.jpg"
+    },
+    {
+        "name":"nike017",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/17.jpg"
+    },
+    {
+        "name":"nike018",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/18.jpg"
+    },
+    {
+        "name":"nike019",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/19.jpg"
+    },
+    {
+        "name":"nike020",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/20.jpg"
+    },
+    {
+        "name":"nike021",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/21.jpg"
+    },
+    {
+        "name":"nike022",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/22.jpg"
+    },
+    {
+        "name":"nike023",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/23.jpg"
+    },
+    {
+        "name":"nike024",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/24.jpg"
+    },
+    {
+        "name":"nike025",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/25.jpg"
+    },
+    {
+        "name":"nike026",
+        "category": "sport",
+        "price":"168.99",
+        "imgSrc":"./img/26.jpg"
+    },
+    {
+        "name":"nike027",
+        "category": "sport",
+        "price":"168.99",
+        "imgSrc":"./img/27.jpg"
+    },
+    {
+        "name":"nike028",
+        "category": "sport",
+        "price":"168.99",
+        "imgSrc":"./img/28.jpg"
+    },
+    {
+        "name":"nike029",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/29.jpg"
+    },
+    {
+        "name":"nike030",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/30.jpg"
+    },
+
+    {
+        "name":"nike031",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/31.jpg"
+    },
+
+    {
+        "name":"nike032",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/32.jpg"
+    },
+
+    {
+        "name":"nike034",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/34.jpg"
+    },
+    {
+        "name":"nike035",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/35.jpg"
+    },
+  
+    {
+        "name":"nike036",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/36.jpg"
+    },
+  
+    {
+        "name":"nike037",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/37.jpg"
+    },
+    {
+        "name":"nike038",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/38.jpg"
+    },
+    {
+        "name":"nike039",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/39.jpg"
+    },
+    {
+        "name":"nike040",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/40.jpg"
+    },
+    {
+        "name":"nike041",
+        "category": "sneaker",
+        "price":"168.99",
+        "imgSrc":"./img/41.jpg"
+    }
+  
+  
+  
+    
+]
